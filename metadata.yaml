@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'SB'
 - !lcsh 'Roses'
+- GITenberg
 title: The Book of Roses
 url: http://www.gutenberg.org/ebooks/47232
